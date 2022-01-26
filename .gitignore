@@ -1,0 +1,11 @@
+# Ignore some python stuff
+*.pyc
+__pycache__
+
+# Ignore autosaves and reversions
+*.blend[1-9]
+
+# Ignore temporary folders
+/[Tt]emp/
+/tmp/
+/cache_*
